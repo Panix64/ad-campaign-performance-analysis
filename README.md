@@ -45,13 +45,13 @@ Companies spend heavily across ad platforms without always knowing which ones tr
 ## 📊 Dashboard
 
 ### Overview
-![Overview](images/page1_overview.png)
+![Overview](page1_overview.png)
 
 ### Platform & Campaign Deep-Dive
-![Deep-Dive](images/page2_deepdive.png)
+![Deep-Dive](page2_deepdive.png)
 
 ### Key Insights & Recommendations
-![Recommendations](images/page3_recommendations.png)
+![Recommendations](page3_recommendations.png)
 
 ---
 
