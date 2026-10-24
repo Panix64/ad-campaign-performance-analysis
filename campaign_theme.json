@@ -1,0 +1,21 @@
+{
+    "name": "Campaign Light",
+    "dataColors": ["#4C6FFF", "#8B5CF6", "#06B6D4", "#F59E0B", "#EC4899", "#10B981", "#6366F1", "#F97316"],
+    "background": "#F4F6FB",
+    "foreground": "#1E293B",
+    "tableAccent": "#4C6FFF",
+    "visualStyles": {
+        "*": {
+            "*": {
+                "background": [{ "show": true, "color": {"solid": {"color": "#FFFFFF"}}, "transparency": 0 }],
+                "border": [{ "show": true, "color": {"solid": {"color": "#E2E8F0"}}, "radius": 12 }],
+                "dropShadow": [{ "show": true, "color": {"solid": {"color": "#000000"}}, "position": "Outer", "preset": "Custom", "shadowBlur": 8, "shadowSpread": 0, "transparency": 92 }],
+                "title": [{ "show": true, "fontColor": {"solid": {"color": "#1E293B"}}, "fontSize": 12, "bold": true, "alignment": "left" }],
+                "labels": [{ "color": {"solid": {"color": "#334155"}} }],
+                "legend": [{ "labelColor": {"solid": {"color": "#64748B"}} }],
+                "categoryAxis": [{ "labelColor": {"solid": {"color": "#64748B"}}, "gridlineShow": false }],
+                "valueAxis": [{ "labelColor": {"solid": {"color": "#64748B"}}, "gridlineColor": {"solid": {"color": "#EEF2F7"}} }]
+            }
+        }
+    }
+}
